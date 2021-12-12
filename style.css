@@ -1,0 +1,27 @@
+body {
+    background: rgb(236, 115, 115);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: darkblue;
+    text-align: center;
+
+}
+
+section {
+    background: cadetblue;
+    border-radius: 10px;
+    margin: auto;
+    padding: 14px;
+    width: 370px ;
+    box-shadow: 3px 3px 5px darkolivegreen;
+
+}
+
+footer {
+    color: darkblue;
+    text-align: center;
+    font-style: italic;
+
+}
