@@ -4,18 +4,18 @@ body {
 }
 
 header {
-    color: darkblue;
+    color: rgb(131, 131, 218);
     text-align: center;
 
 }
 
 section {
-    background: cadetblue;
+    background: rgb(244, 246, 247);
     border-radius: 10px;
     margin: auto;
     padding: 14px;
     width: 370px ;
-    box-shadow: 3px 3px 5px darkolivegreen;
+    box-shadow: 3px 3px 5px rgb(243, 247, 238);
 
 }
 
@@ -25,7 +25,7 @@ div{
 }
 
 footer {
-    color: darkblue;
+    color: rgb(121, 121, 219);
     text-align: center;
     font-style: italic;
 
